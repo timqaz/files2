@@ -1,2 +1,9 @@
 https://anirudhbhatnagar.com/2014/03/18/how-to-mock-http-endpoints-in-mule-functional-test/
 http://vader.joemonster.org/upload/zrb/512_13e7be79zdjecie.jpg
+
+https://direct.dnb.com/Authentication/V2.0/
+x-dnb-user
+x-dnb-pwd
+
+https://direct.dnb.com:443/V1.1/organizations/804735132/products/CMP_VRF_RPT
+Authorization
